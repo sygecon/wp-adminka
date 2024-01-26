@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="99.568mm" height="66.802mm" version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m375.36 250.56v-249.28h-374.4v249.6h374.4z" fill="#ff0017"/>
+ <path d="m375.36 250.56v-249.28h-374.4v249.6h374.4v0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".64px"/>
+ <g fill="#ffe836">
+  <path d="m21.76 57.92 32 0.32 9.6-30.4 9.92 30.4h32l-25.92 18.56 9.92 30.4-25.92-18.56-25.6 18.56 9.92-30.08-25.92-18.88z"/>
+  <path d="m115.52 32.96 5.12-6.08-4.8-6.4 7.68 2.24 4.48-6.4v8l7.68 2.56-7.68 2.24v8l-4.48-6.4-7.68 2.56z"/>
+  <path d="m142.72 98.56 2.56-7.68-6.4-4.48h8l2.56-7.68 2.24 7.68h8l-6.4 4.48 2.56 7.68-6.4-4.8-6.72 4.8z"/>
+  <path d="m138.88 53.76 6.4-4.48-2.56-7.68 6.72 4.48 6.4-4.48-2.56 7.68 6.4 4.48h-8l-2.24 7.68-2.56-7.68h-8z"/>
+  <path d="m115.52 121.92 5.12-6.4-4.8-6.4 7.68 2.56 4.48-6.72v8l7.68 2.56-7.68 2.56v8l-4.48-6.72-7.68 2.56z"/>
+ </g>
+</svg>
