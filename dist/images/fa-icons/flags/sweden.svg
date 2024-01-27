@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="115.15mm" height="71.713mm" version="1.0" xmlns="http://www.w3.org/2000/svg">
- <path d="m433.92 269.76v-269.12h-432.32v269.44h432.32z" fill="#0077d1"/>
- <path d="m433.92 107.84-243.84 0.32v-107.52h-54.4v107.52h-134.4v54.4h134.4v107.52h54.4v-107.52h243.84v-54.4z" fill="#ffe80f"/>
- <path d="m433.6 269.76 0.32-269.12h-432.32v269.44h432.32v0" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width=".64px"/>
-</svg>
