@@ -1,7 +1,7 @@
 # Development
 
 <p align="center">
-Free admin panel components.
+Free Administrative panel for website management based on the CodeIgniter 4 framework.
 <br>
 Based on <a href="https://github.com/sygecon/wp-adminka">Sygecon admin panel</a> library.
 </p>
